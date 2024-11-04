@@ -1,0 +1,25 @@
+D@rckwolf57.
+
+Fargerous9420
+
+Jaimefar
+
+F@rgerous9420.
+
+SI(J2="TRUE" G2>10;10%*F2;3%*F2)
+=SI(Y(J2="TRUE";G2>10);F2*10%,F2*3%)
+=SI(Y(J2="TRUE";G2>10);F2*0,9;F2*1,03)
+
+
+
+=BUSCARV(A2,'Base de Datos!'A2:L78,2,FALSO), "No Encontrado"
+
+Utilice la Funcion si, calcular en esa colima el nuevo precio del producto; el cual tendra un descuento del 10% en caso de que dicho producto este descontinuado y que exitan en Stock mas de 10 piezas y en caso de los contrario tendra aunmento del 3%
+
+
+
+En la Hoja busqueda lograr que cuando el usuario ingrese el producid en la celdaB3, de forma automatica se devuelvan en las celdas B4,B5yB6 el nombre del producto en stock y la inversion respectivamente
+
+Dado lo anterior como se agrega a los subtotales actuales el calculo total de la inversión por categoria
+
+En la información enviada utilizando la herramiento de subtotales encontrar el total de unidades en stock(UnitsinStock) por categoria

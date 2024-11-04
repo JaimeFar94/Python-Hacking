@@ -1,0 +1,80 @@
+create table antecedentes(
+    diabetes varchar(20),
+    hipertension varchar(20),
+    artritis varchar(20),
+    alergia varchar(20),
+    catarata varchar(20),
+    glaucoma varchar(20),
+    estrabismo varchar(20),
+    queratocono varchar(20),
+    otros varchar(50),
+    diabetes_per varchar(20),
+    hipertension_per varchar(20),
+    Artritis_per varchar(20),
+    Alergia_per varchar(20),
+    ulcera_per varchar(20),
+    cirugia_per varchar(20),
+    lentes_contacto_per varchar(20),
+    otros1 varchar(20),
+    descripcion varchar(80)
+);
+3103184282
+3188895092 Yeison balagera 
+
+realizar un extracto de protection y porvenir,  soliciutd de excolaborador cesantias ex colaborador 
+
+create table antecedentes_quirurgicos(
+observacion varchar(200)
+);
+
+//Vista
+create table vista(
+vision_lejana varchar(40),
+vision_proxima varchar(40),
+duccion_od varchar(40),
+duccion_oi varchar(40),
+ppc_od varchar(40),
+ppc_oi varchar(40),
+ojo_derecho varchar(30),
+ojo_izquierdo varchar(30),
+ojo_drc_querato varchar(30),
+ojo_izq_querato varchar(30),
+ojo_drc_refac varchar(30),
+ojo_izq_refac varchar(30),
+ojo_drc_retino varchar(30),
+ojo_izq_retino varchar(30)
+);
+
+
+create table mov_consulta(
+mov_consulta varchar(200),
+ulti_consulta varchar(100),
+esfera varchar(50),
+cilindro varchar(50),
+eje varchar(50),
+dp varchar(50),
+vl20 varchar(50),
+vp20 varchar(50),
+add_0 varchar(50),
+esfera_1 varchar(50),
+cilindro_1 varchar(50),
+eje_1 varchar(50),
+dp_1 varchar(50),
+vl20_1 varchar(50),
+vp20_1 varchar(50),
+add_1 varchar(50),
+tipo_lente varchar(50),
+montura varchar(50),
+material varchar(50),
+filtro varchar(50),
+color varchar(50),
+observacion varchar(100)
+);
+
+
+
+
+
+
+
+C:\Users\J-far\Documents\pythonReporte de Seguimiento Diario_Detalle Produccion POS_Tabla.xlsx
