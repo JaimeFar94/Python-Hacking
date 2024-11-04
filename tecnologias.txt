@@ -1,0 +1,34 @@
+{
+    "https://exercism.org/": [
+        {
+            "app": "Amazon Cloudfront",
+            "ver": null,
+            "type": "CDN"
+        },
+        {
+            "app": "Nginx",
+            "ver": "1.25.3",
+            "type": "Web Servers,Reverse Proxy"
+        },
+        {
+            "app": "Ruby on Rails",
+            "ver": null,
+            "type": "Web Application Frameworks"
+        },
+        {
+            "app": "React",
+            "ver": null,
+            "type": "JavaScript Frameworks"
+        },
+        {
+            "app": "Amazon Web Services",
+            "ver": null,
+            "type": "PaaS"
+        },
+        {
+            "app": "Ruby",
+            "ver": null,
+            "type": "Programming Languages"
+        }
+    ]
+}
